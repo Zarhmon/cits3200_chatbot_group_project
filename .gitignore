@@ -1,0 +1,11 @@
+venv/
+*.DS_Store
+*.sqlite3
+__pycache__/
+cits3200/
+*token.pickle
+*credentials.json
+*my_avatar.png
+*my_avatar.svg
+*db.sqlite3-shm
+*db.sqlite3-wal
